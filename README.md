@@ -6,7 +6,7 @@
 
 ## 在线版本
 
-请访问这里：http://bitipcman/clouddictionary/ 查看在线版本。
+请访问这里：http://bitipcman.com/clouddictionary/ 查看在线版本。
 
 ## Source
 
