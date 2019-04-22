@@ -1,0 +1,22 @@
+V1.1
+类型,云服务,阿里云,腾讯云,华为云,金山云,亚马逊AWS,微软Azure
+IaaS计算,云服务器,ECS,CVM,ECS,KSC,EC2,Virtual Machines
+,物理机,神龙,黑石,裸金属,EPC,EC2 Bare Metal Instances,SAP HANA on Azure (Large Instances SAP Only)
+,弹性,弹性伸缩,弹性伸缩,弹性伸缩,EIP,Auto Scaling,Virtual Machine Scale Sets
+IaaS存储,云硬盘,块存储,CBS,EVS,EBS,EBS,Disk Storage
+,对象存储,OSS,COS,OBS,KS3,S3,Blob Storage
+,文件存储,NAS,CFS,SFS,KFS,EFS,Azure Files
+IaaS网络,VPC,VPC,VPC,VPC,VPC,VPC,Virtual Network
+,子网,交换机,Subnet,Subnet,Subnet,Subnet,Subnet
+,安全规则组,ACL,安全组,安全组,安全组,Security Group,Network security group
+,弹性IP,EIP,弹性公网IP,弹性公网IP,弹性公网IP,EIP,IP addresses
+,虚拟路由器,路由器,路由表,路由表,路由,RouteTable,Virtual network traffic routing
+,点对点连接,高速通道,对等链接,对等链接,对等网络,DirectConnect / PrivateLink,Virtual network peering
+,负载均衡,SLB,CLB,ELB,SLB,ELB,Load Balancer
+,CDN,CDN,CDN,CDN,CDN,CloudFront,CDN
+,DNS,云解析,云解析,华为云域名,云解析,Route 53,Azure DNS
+IaaS安全,WAF,WAF防火墙,Web 应用防火墙,WAF,WAF,WAF,Azure Sentinel 
+,DDOS,高防IP,大禹,AAD,KAD,Shield,Azure DDoS Protection
+认证,认证和权限管理,RAM,CAM,IAM,IAM,IAM,Azure Active Directory
+PaaS,数据库,RDS,TencentDB,云数据库,KRDS,RDS,SQL Database
+监控,监控,云监控,CM,Cloud Eye,CM,CloudWatch,Azure Monitor
